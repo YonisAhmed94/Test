@@ -1,0 +1,200 @@
+ /*{
+    margin: 0;
+    
+}
+body{
+    background-color: aqua;
+}
+
+.tech{
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    gap: 30px;
+    margin-top: 50px;
+    justify-content: center;
+    
+}
+.yo{
+    width: 400px;
+    background-color:black;
+    border-radius: 22px;
+    
+} 
+.tech img{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.profile img{
+    width: 50px;
+    border-radius: 20px;
+}
+.profile{
+    display: flex;
+    margin-top: 50px;
+}
+.tech button, h1, p {
+    margin: 6px;
+    color:white;
+}
+.title h3 {
+    margin: 10px;
+    color: wheat;
+}
+.tech button{
+    background-color: fuchsia;
+    color: wheat;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 32px;
+}       */
+   /* .state{
+    justify-content: center;
+    display: grid;
+    column-gap: 10rem;
+    grid-template-columns: 100px;
+   }
+   .box-parent{
+    justify-content: center;
+    display: flex;
+   } */
+   /* .box{
+    border: 1px;
+    background-color: aqua;
+    width: 100px;
+    border-radius: 30px;
+    height: 50px;
+   } */
+   /* .box button{
+    margin-top: 20px;
+    margin-left: 30px;
+   } */
+
+   /* .box-parent{
+    display: grid;
+    justify-content: center;
+    margin: 50px;
+   
+   }
+   .{
+    text-align: center;
+    background-color: aqua;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 300px;
+    height: 200px;
+    padding-top: 20px;
+    
+   }
+   .btn{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+   }
+   body{
+    background-color: black;
+   }
+   .ptn{
+    width: 500px;
+    text-align: center;
+    height: 400px;
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: aqua;
+    font-size: 30px;
+    border-radius: 20px;
+    
+    
+
+    padding-top: 20px;
+   }
+   .btn{
+    margin-top: 300px;
+    margin-left: 40px;
+    display: flex;
+    font-size: 1000px;
+    border: none ;
+    background-color: gainsboro;
+    border-radius: 5px;
+    position: absolute;
+    gap: 300px;
+    padding: 20px;
+    color: rebeccapurple;
+    
+    
+   } */
+
+   /* .cover {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    background-color:midnightblue;
+    
+   }
+   .cover ul{
+    margin-right: 70px;
+    display: flex;
+    
+   
+    
+   }
+   .cover ul li {
+    padding: 30px;
+    font-size: 22px;
+    list-style: none;
+    
+    
+    
+    
+   } */
+   /* .cover ul li a{
+    text-decoration: none;
+   }
+
+   .cover ul li :hover{
+    background-color: brown;
+    padding: 30px;
+    border-radius: 20px;
+    
+    
+   }
+   .btn{
+    position: absolute;
+    right: 2px;
+    cursor: pointer ;
+    display: none;
+    flex-direction: column;
+   }
+   body{
+    background-color: black;
+    color: wheat;
+    background-image: url(sumii.jpg); background-repeat: no-repeat; background-size: cover; 
+   }
+
+/* //responsive */
+@media screen and (max-width: 600px) {
+
+    .cover ul{
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .btn{
+        display: block;
+        right: 30px;
+    }
+    .btn1{
+        display: block;
+    }
+    body{
+        background-color: black;
+        color: black;
+       
+    }
+    .sumi img{
+        width: 150px;
+        border-radius: 100%;
+        margin-top: 200px;
+    }
+} */
